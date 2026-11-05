@@ -3,8 +3,6 @@
 
 💼 Software Engineer specializing in Enterprise Java Applications
 
-🔭 Working on **Wealth Management Accelerator (wmA)**
-
 🌱 Expanding expertise in **AI-assisted Development, Angular, and Test Automation**
 
 💬 Let's discuss **Java, Spring Boot, Angular, Cypress, REST APIs, Microservices, and AI Tools**
